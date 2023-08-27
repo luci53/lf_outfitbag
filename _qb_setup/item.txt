@@ -1,0 +1,1 @@
+	["lf_outfitbag"] 			 	 = {["name"] = "lf_outfitbag", 				    ["label"] = "Outfit bag",	 		    ["weight"] = 4000, 		["type"] = "item", 		["image"] = "lf_outfitbag.png", 	    ["unique"] = false, 	["useable"] = true, 	["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "Holds different outfits"},
