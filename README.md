@@ -1,2 +1,16 @@
-# lf_outfitbag
-INTRODUCING LF_OUTFITBAG  A SCRIPT THAT HELPS YOU CHANGE CLOTHES ANYWHERE YOU WANT USING COMMAND OR USING ITEM  YOU CAN ENABLE DISABLE COMMNAD USING CONFIG  FOR BOTH QB + ESX
+## How to install
+* Download this repo or clone it
+* Copy and paste `lf_outfitbag` folder to `resources/`
+
+* Add `ensure lf_outfitbag` to your `server.cfg` file
+* Use qb setup or esx setup to your framework needs 
+* Save and restart your server 
+* Now you are ready to go
+
+
+
+
+
+## Requirements
+* QBcore
+* QB-INPUTS or Qinputs
